@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vladyslav @vova3plv 
+# 👋 Hi, I'm Vova @vova3plv 
 
 🚀 **dApp Architect**  
 *"Every blockchain starts with a single line of code."*
